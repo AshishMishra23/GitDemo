@@ -1,0 +1,3 @@
+framework\AppiumTest.class
+framework\RestAPITest.class
+framework\SeleniumTest.class
